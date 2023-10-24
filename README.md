@@ -27,6 +27,6 @@ metadata:
 spec:
   fetch:
     imgpkgBundle:
-      image: eharbor.build.h2o-2-18171.h2o.vmware.com/packages/standard:v2023.7.13_update.2
+      image: harbor.build.h2o-2-18171.h2o.vmware.com/packages/standard:v2023.7.13_update.2
 
 ```
